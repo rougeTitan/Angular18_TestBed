@@ -18,21 +18,22 @@ npm install -g @angular/cli
 ## 🚀 Getting Started
 To get started, clone the repository and install dependencies for each project individually.
 
-Step 1: Clone the Repository
+## Step 1: Clone the Repository
 ```bash
 git clone https://github.com/your-username/angular18-feature-exploration.git
 cd angular18-feature-exploration
+```
 
-Step 2: Navigate to a Project and Install Dependencies
+### Step 2: Navigate to a Project and Install Dependencies
 Each subdirectory contains a separate Angular 18 project. You must run npm install in each project's folder before you can serve it.
 
 ```bash
 cd project-name
 npm install
 ng serve
+```
 
-
-📚 Features Covered
+## 📚 Features Covered
 ✅ Standalone Components
 
 ✅ Signals and Reactive Primitives
